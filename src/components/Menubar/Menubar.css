@@ -1,0 +1,8 @@
+.menu-container {
+  text-align: right;
+}
+.menu-container li {
+  display: inline;
+  margin: 0px 20px;
+  font-size: 20px;
+}
